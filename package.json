@@ -10,7 +10,7 @@
     "@material-ui/icons": "^4.4.3",
     "@material-ui/styles": "^4.4.3",
     "@types/prop-types": "^15.7.3",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "clsx": "^1.0.4",
     "prop-types": "^15.7.2",
     "react-jss": "^10.0.0"
